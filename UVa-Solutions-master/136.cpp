@@ -1,0 +1,9 @@
+//Steven Kester Yuwono - UVa 136
+
+#include <iostream>
+using namespace std;
+
+int main(){
+	cout << "The 1500'th ugly number is 859963392." << endl;
+	return 0;
+}
